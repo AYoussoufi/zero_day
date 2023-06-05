@@ -1,1 +1,1 @@
-Logo: ![Alt](/wp.png "Title")
+![Alt](/wp.png "Title")
